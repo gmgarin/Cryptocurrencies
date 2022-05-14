@@ -23,7 +23,9 @@
   Image 2. PCS DataFrame
 </p>
 
+<p align="center>
 ![This is an image](https://github.com/gmgarin/Cryptocurrencies/blob/cdf64ac53c11addbc5b0a6e7d8327529474d714b/images/image2.png)
+</p>
 
 <p align="center">
   Image 3. Elbow Curve
