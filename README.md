@@ -25,6 +25,7 @@
 
 ![This is an image](https://github.com/gmgarin/Cryptocurrencies/blob/cdf64ac53c11addbc5b0a6e7d8327529474d714b/images/image2.png)
 
+
 <p align="center">
   Image 3. Elbow Curve
 </p>
@@ -43,8 +44,9 @@
 
 ![This is an image](https://github.com/gmgarin/Cryptocurrencies/blob/cdf64ac53c11addbc5b0a6e7d8327529474d714b/images/image4.png)
 
+
 <p align="center">
-  Image 5. First 11 Tradable Cryptocurrencies DataFrame using hvplot
+  Image 5. First 11 Tradable Cryptocurrencies DataFrame using hvPlot
 </p>
 
 ![This is an image](https://github.com/gmgarin/Cryptocurrencies/blob/cdf64ac53c11addbc5b0a6e7d8327529474d714b/images/image5.png)
@@ -58,6 +60,7 @@
 </p>
 
 ![This is an image](https://github.com/gmgarin/Cryptocurrencies/blob/cdf64ac53c11addbc5b0a6e7d8327529474d714b/images/image7.png)
+
 
 <p align="center">
   Image 7. hvPlot Scatter Plot
