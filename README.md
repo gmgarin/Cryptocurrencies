@@ -29,7 +29,7 @@
   Image 3. Elbow Curve
 </p>
 
-![This is an image](https://github.com/gmgarin/Cryptocurrencies/blob/cdf64ac53c11addbc5b0a6e7d8327529474d714b/images/image3a.png)
+![This is an image](https://github.com/gmgarin/Cryptocurrencies/blob/97fa7aeac85240d43caf2d06d005f9727778cd8f/images/image3a.png)
 
 
 ### As mentioned, the goal of this analysis is to create a classification system for cryptocurrencies. The *K* value = 4 was determined based on the *elbow cruve*. As a result, four prediction clusters were created. 
@@ -64,3 +64,13 @@
 </p>
 
 ![This is an image](https://github.com/gmgarin/Cryptocurrencies/blob/cdf64ac53c11addbc5b0a6e7d8327529474d714b/images/image6.png)
+
+### Looking at the graph, most cryptocurrencies are classified under classes *0* and *3*. At the same time, many of these tradable tokens have limited public availability and circulation in the market. The total number of coins mined of most cryptocurrencies are under 20%. The graph also shows a general trend that as the total coins mined increases, the number of publicly traded coins also increases. 
+
+## Summary
+
+### The application of *unsupervised machine learning* in the crypto world is a systematic way to create an intuitive representation. Since public trading of cryptocurrencies has a constantly changing trend, the machine learning algorithm can be utilized to predict trends and/or patterns from the whole dataset to determine which cryptocurrencies are worth the investment. 
+
+#### Resources:
+#### Dataset from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist)
+#### Tools: 
