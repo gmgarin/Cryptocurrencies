@@ -8,7 +8,7 @@
 
 ### After extracting and transforming the data, the following analysis was obtained:
 
-### Cryptocurrencies Data
+## Cryptocurrencies Data
 
 <p align="center">
   Image 1. Cryptocurrencies DataFrame
@@ -34,7 +34,7 @@
 
 ### As mentioned, the goal of this analysis is to create a classification system for cryptocurrencies. The *K* value = 4 was determined based on the *elbow cruve*. As a result, four prediction clusters were created. 
 
-### Visualization
+## Visualization of Results
 
 
 <p align="center">
