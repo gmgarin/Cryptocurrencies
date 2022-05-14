@@ -60,17 +60,18 @@
 ![This is an image](https://github.com/gmgarin/Cryptocurrencies/blob/cdf64ac53c11addbc5b0a6e7d8327529474d714b/images/image7.png)
 
 <p align="center">
-  Image 7. hvplot Scatter Plot
+  Image 7. hvPlot Scatter Plot
 </p>
 
 ![This is an image](https://github.com/gmgarin/Cryptocurrencies/blob/cdf64ac53c11addbc5b0a6e7d8327529474d714b/images/image6.png)
 
-### Looking at the graph, most cryptocurrencies are classified under classes *0* and *3*. At the same time, many of these tradable tokens have limited public availability and circulation in the market. The total number of coins mined of most cryptocurrencies are under 20%. The graph also shows a general trend that as the total coins mined increases, the number of publicly traded coins also increases. 
+### Looking at the graph, most cryptocurrencies are classified under classes *0* and *3*. At the same time, many of these tradable tokens have limited public availability and circulation in the market. The total number of coins mined of most cryptocurrencies are under 20%. The graph also shows a general trend that as the total coins mined increases, the number of total coin supply also increases. 
 
 ## Summary
 
 ### The application of *unsupervised machine learning* in the crypto world is a systematic way to create an intuitive representation. Since public trading of cryptocurrencies has a constantly changing trend, the machine learning algorithm can be utilized to predict trends and/or patterns from the whole dataset to determine which cryptocurrencies are worth the investment. 
 
-#### Resources:
-#### Dataset from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist)
-#### Tools: 
+#### *Resources:*
+##### Dataset from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist)
+##### Tools: [Python 3.9](https://www.python.org/downloads/release/python-390/), [scikit-learn 0.24.2](https://scikit-learn.org/stable/whats_new/v0.24.html), [hvPlot 0.8](https://hvplot.holoviz.org/user_guide/Introduction.html), [plotly 5.8.0](https://pypi.org/project/plotly/)
+##### Article: [Circulating Supply](https://academy.binance.com/en/glossary/circulating-supply)
